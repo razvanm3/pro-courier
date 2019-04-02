@@ -1,7 +1,7 @@
 package dao;
 
 import com.procourier.model.Order;
-
+import com.procourier.model.Product;
 import javax.persistence.EntityManager;
 import javax.persistence.TypedQuery;
 import java.util.List;
